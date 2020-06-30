@@ -27,6 +27,7 @@
         "-std=c++17",
         "-Wall"
     ],
+<<<<<<< HEAD
     "clang.completion.enable": true,
     "files.associations": {
         "string": "cpp",
@@ -67,4 +68,7 @@
         "xtr1common": "cpp",
         "xutility": "cpp"
     } // 效果效果比cpptools要好
+=======
+    "clang.completion.enable":true // 效果效果比cpptools要好
+>>>>>>> d6563cf4f2f51528172957a69419fb67266988da
 }

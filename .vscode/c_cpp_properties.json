@@ -5,6 +5,7 @@
             "intelliSenseMode": "clang-x64",
             "compilerPath": "C:/Program Files/LLVM/bin/clang++.exe",
             "includePath": [
+<<<<<<< HEAD
                 "C:/Program Files/LLVM/include",
                 "C:/Program Files/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
                 "C:/Program Files/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
@@ -12,6 +13,8 @@
                 "C:/Program Files/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
                 "C:/Program Files/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
                 "C:/Program Files/LLVM/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include",
+=======
+>>>>>>> d6563cf4f2f51528172957a69419fb67266988da
                 "${workspaceFolder}"
             ],
             "defines": [],
